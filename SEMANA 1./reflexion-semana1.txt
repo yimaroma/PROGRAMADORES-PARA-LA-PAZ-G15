@@ -1,0 +1,6 @@
+El uso responsable de la información en internet es fundamental para una participación ciudadana consciente y bien informada
+Cuando las personas verifican fuentes y evitan difundir noticias falsas, contribuyen a decisiones colectivas más justas y transparentes. 
+Esto fortalece la confianza en los procesos democráticos y promueve un diálogo respetuoso. A su vez, la organización del trabajo técnico
+con herramientas como Git permite gestionar la información de manera ordenada, segura y colaborativa. Git facilita el control de versiones, 
+lo que ayuda a mantener la integridad de los datos y a evitar errores o pérdidas de información. Además, fomenta el trabajo en equipo, donde cada aporte es registrado y puede ser revisado.
+De esta manera, tanto en la ciudadanía como en lo técnico, se promueve la responsabilidad, la transparencia y la colaboración.
